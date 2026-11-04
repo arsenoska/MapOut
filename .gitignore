@@ -1,0 +1,18 @@
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Routing API cache
+.cache/
+
+# Virtual environment
+.venv/
+venv/
+
+# VS Code settings
+.vscode/
