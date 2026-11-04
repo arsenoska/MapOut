@@ -1,0 +1,16 @@
+id,name,category,latitude,longitude,estimated_cost_eur,visit_duration_min,availability,source
+1,Samuel's Fortress,History,41.115167,20.790667,5,60,Seasonal hours - closed Mondays,https://muzejohrid.mk/tsar-samuels-fortress/
+2,Ancient Theatre,History,41.1147147,20.7937321,0,30,Unknown,https://travel2macedonia.com/tourist-attraction/ancient-theatre-ohrid
+3,Church of St. John at Kaneo,History,41.11112,20.78877,0,45,Daily exterior,https://stjovankaneo.com/en
+4,Plaosnik Archaeological Site,History,41.1127678,20.7908025,,60,Unknown,https://www.northmacedonia-unpacked.com/guides/ohrid-in-two-days/
+5,Robevci Family House,History,41.112361,20.7961416,,45,Seasonal hours - closed Mondays,https://muzejohrid.mk/en/
+6,Bay of Bones Museum,History,40.99436,20.79813,,60,Seasonal hours - closed Mondays,https://muzejohrid.mk/museum-on-water/
+7,Galicica Paragliding Takeoff,Adventure,40.95474,20.81213,,120,Weather dependent,https://bfcruise.mk/special-offers/
+8,Ljubanista Beach Area,Relaxation,40.92299,20.77333,,180,Seasonal,https://bfcruise.mk/special-offers/
+9,Cuba Libre Beach Club,Entertainment,41.10106,20.80592,,120,Seasonal,https://www.ohridhub.mk/
+10,Restaurant Camp Ljubanista,Food,40.92495,20.77354,,60,Unknown,To be verified
+11,Monastery of Saint Naum,History,40.91389,20.74050,,60,Unknown,https://www.northmacedonia-unpacked.com/guides/ohrid-in-two-days/
+12,Biljanas Springs,Relaxation,41.10247,20.81501,,45,Unknown,https://www.ohrid4u.com/en/bezienswaardigheden
+13,National Workshop for Handmade Paper,History,41.11242,20.79536,,30,Unknown,https://www.ultimateskopjecityguide.com/lake-ohrid-guide.html
+14,Ohrid Old Bazaar,Food,41.11472,20.80028,,60,Unknown,https://www.northmacedonia-unpacked.com/destinations/ohrid/
+15,Church of Saint Sophia,History,41.11222,20.79417,,30,Unknown,https://www.northmacedonia-unpacked.com/guides/ohrid-in-two-days/
