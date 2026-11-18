@@ -100,3 +100,16 @@ id,name,city,region,categories,latitude,longitude,estimated_cost_eur,visit_durat
 99,Kruševo Paragliding Take-off / Mečkin Kamen,Kruševo,Mečkin Kamen,Adventure|Nature|Entertainment,41.3375,21.258,,180,Weather-dependent; fly only with qualified operator/appropriate pilot credentials,https://krusevo.gov.mk/ketprojects/
 100,Kruševo Ski Area (Stanič),Kruševo,Stanič,Adventure|Entertainment|Nature,41.37,21.24,,180,Winter operation depends on snow and lift status,https://skimacedonia.mk/en/ski-centri/krusevo/
 101,Kruševska Odaja Restaurant,Kruševo,Kruševo Centre,Food|Relaxation,41.3706,21.2488,,90,Restaurant opening hours and prices vary,https://krushevskaodaja.com/
+102,Ali Pasha Mosque,Ohrid,Ohrid Old Bazaar,History|Culture,41.115522,20.800528,,30,Active mosque; visit outside prayer times,https://www.openstreetmap.org/?mlat=41.115522&mlon=20.800528
+103,Magaro Peak,Ohrid,Galičica National Park,Nature|Adventure,40.9332,20.8206,0,300,High-mountain hike; seasonal and weather-dependent,https://galicica.org.mk/en/
+104,Vrelo Cave,Skopje,Matka Canyon,Nature|Adventure,41.93016,21.29227,,90,Access by boat; check operating conditions,https://www.openstreetmap.org/?mlat=41.93016&mlon=21.29227
+105,Skopje Aqueduct,Skopje,Vizbegovo,History|Culture,42.02235,21.41930,0,45,Outdoor monument; check site access,https://www.openstreetmap.org/?mlat=42.02235&mlon=21.41930
+106,Tumba Madžari,Skopje,Madžari,History|Culture|Archaeology,42.00149,21.50544,,60,Archaeological site; visitor access may vary,https://www.openstreetmap.org/?mlat=42.00149&mlon=21.50544
+107,Čifte Hamam,Skopje,Old Bazaar,History|Culture|Art,42.00113,21.43727,,60,Gallery opening hours apply,https://nationalgallery.mk/
+108,Gorna Lešnica Waterfall,Tetovo,Šar Mountain / Gorna Lešnica,Nature|Adventure,42.00612,20.81059,0,240,Mountain hike; weather and trail conditions apply,https://sharplanina.com.mk/
+109,Dolna Lešnica Valley,Tetovo,Šar Mountain / Dolna Lešnica,Nature|Adventure|Relaxation,42.02320,20.78570,0,240,Mountain hiking area; use marked trails,https://sharplanina.com.mk/
+110,Kamenjane Waterfalls Trail Area,Tetovo,Kamenjane / Bogovinje,Nature|Adventure,41.95147,20.90447,0,120,Waterfall trail; check weather and trail conditions,https://www.openstreetmap.org/?mlat=41.95147&mlon=20.90447
+111,Vevčani Springs,Struga,Vevčani,Nature|Relaxation,41.23944,20.58466,,75,Natural springs; check local access and admission,https://www.openstreetmap.org/?mlat=41.23944&mlon=20.58466
+112,Lazaropole Village,Mavrovo,Lazaropole / Bistra Mountain,Culture|Nature|Relaxation,41.53606,20.69582,0,90,Mountain village; winter road access may be limited,https://npmavrovo.org.mk/en/
+113,Church of St. George in Lazaropole,Mavrovo,Lazaropole,History|Culture,41.53638,20.69368,,45,Religious site; interior access may vary,https://www.openstreetmap.org/?mlat=41.53638&mlon=20.69368
+114,Treskavec Monastery,Bitola,Prilep / Zlatovrv day-trip area,History|Culture|Nature,41.40385,21.53824,,90,Mountain monastery; check road and weather conditions,https://www.openstreetmap.org/?mlat=41.40385&mlon=21.53824
